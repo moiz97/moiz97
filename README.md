@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Moiz
 - 👀 I’m interested in learning new technologies and problem solving
-- 🌱 I’m currently learning dart, flutter and laravel
-- 💞️ I’m looking to collaborate on multiple projects
+- 🌱 I love dart and flutter.
+- 💞️ Want to talk? email me at mhdmoizthr123@gmail.com
 
 
 <!---
